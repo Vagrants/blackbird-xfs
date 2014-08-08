@@ -1,0 +1,5 @@
+include xfs.py
+include xfs.cfg
+include README.md
+include CHANGELOG.md
+include PROJECT.txt
