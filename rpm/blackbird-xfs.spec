@@ -26,7 +26,7 @@ BuildRequires:  python-devel
 Project Info
 ============
 
-* Project Page: https://github.com/Vagrants/blackbird-name
+* Project Page: https://github.com/Vagrants/blackbird-xfs
 
 
 %prep
